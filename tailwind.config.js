@@ -2,6 +2,17 @@
 export default {
   content:  ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
+    container: {
+      padding: {
+        default: '15px'
+      }
+    },
+    screens: {
+      sm: '640px',
+      md: '768px',
+      lg: '960px',
+      xl: '1330px'
+    },
     extend: {
       colors: {
         mainRed: "#c93439", // Rojo principal para botones de acción
@@ -12,6 +23,14 @@ export default {
         yellowLDark: "hsl(45, 100%, 50%)", // Amarillo oscuro para botones de advertencia
         mainBlack: "hsl(0, 0%, 0%)",
       },
+      boxShadow: {
+        custom1: '0px 2px 40px 0px rgb(239, 154, 154)',
+        custom2: '0px 0px 30px 0px rgba(8, 73, 81, 0.06)'
+      },
+      backgroundImage : {
+        imagen1: 'url(../../assets/img/galeria/carpa1.jpg)',
+        imagen2: 'url(../../assets/img/galeria/carpa2.jpg)'
+      }
     },
   },
   plugins: [],
