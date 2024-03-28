@@ -53,7 +53,7 @@
 		</p>
 		<ul class="flex justify-center space-x-6 gap-y-2 flex-wrap">
 			<li>
-				<a href="/" class="text-gray-300 hover:text-white text-base">Politicas de privacidad</a>
+				<a href="/" class="text-gray-300 hover:text-white text-base">Politica de privacidad</a>
 			</li>
 		</ul>
 	</div>

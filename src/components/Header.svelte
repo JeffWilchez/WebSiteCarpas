@@ -22,6 +22,10 @@
 
 		<div class="flex flex-col gap-y-4 lg:flex-row lg:gap-x-10 lg:gap-y-0">
 			<div class="flex justify-center items-center gap-x-2 lg:justify-normal">
+				<i class="fa-solid fa-envelope text-2xl text-mainRed"></i>
+				<div>correo@correo</div>
+			</div>
+			<div class="flex justify-center items-center gap-x-2 lg:justify-normal">
 				<i class="fa-solid fa-location-dot text-2xl text-mainRed"></i>
 				<div>Bogotá, Colombia</div>
 			</div>
