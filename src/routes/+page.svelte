@@ -3,6 +3,7 @@
 	import Footer from '../components/Footer.svelte';
 	import Desc from '../components/Desc.svelte';
 	import BtnWpp from '../components/BtnWpp.svelte';
+	import BtnContacto from '../components/BtnContacto.svelte';
 
 	// import Imagen1 from '../lib/assets/img/galeria/carpa1.jpg';
 	// import Imagen2 from '../lib/assets/img/galeria/carpa2.jpg';
@@ -92,5 +93,7 @@
 </section>
 
 <BtnWpp />
+
+<BtnContacto />
 
 <Footer />

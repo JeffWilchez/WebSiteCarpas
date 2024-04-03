@@ -1,8 +1,10 @@
 <script>
-	import imageDesc from '../lib/assets/img/descripcion/image1.png';
+	// import imageDesc from '../lib/assets/img/descripcion/image1.png';
+	// import Imagen1 from '../lib/assets/img/galeria/carpa1.jpg';
+	import Imagen2 from '../lib/assets/img/galeria/carpa2.jpg';
 </script>
 
-<section class="hero bg-red-300 py-12 xl:pt-12 xl:pb-0 overflow-hidden">
+<section class="hero bg-red-200 py-12 xl:pt-12 overflow-hidden">
 	<div class="container mx-auto h-full">
 		<div class="flex flex-col xl:flex-row items-center justify-between h-full">
 			<div class="hero__text xl:w-[48%] text-center xl:text-left">
@@ -10,13 +12,17 @@
 				<p class="mb-[42px] md:max-w-xl">
 					Suspendisse varius tempus augue, ac cursus felis. Pellentesque efficitur aliquet lacinia.
 					Nullam vitae tellus sit amet nisi scelerisque vestibulum sed vitae nisi. Quisque vel
-					maximus quam.
+					maximus quam. Suspendisse varius tempus augue, ac cursus felis. Pellentesque efficitur
+					aliquet lacinia. Nullam vitae tellus sit amet nisi scelerisque vestibulum sed vitae nisi.
+					Quisque vel maximus quam. Suspendisse varius tempus augue, ac cursus felis. Pellentesque
+					efficitur aliquet lacinia. Nullam vitae tellus sit amet nisi scelerisque vestibulum sed
+					vitae nisi. Quisque vel maximus quam.
 				</p>
-				<button class="btn btn-lg btn-accent mx-auto xl:mx-0">Contacto</button>
+				<button class="btn btn-lg btn-accent mx-auto xl:mx-0">Conoce nuestros productos</button>
 			</div>
 
-			<div class="hero__img hidden xl:flex max-w-[814px] self-end">
-				<img src={imageDesc} alt="imagenDescripción" />
+			<div class="hero__img hidden xl:flex max-w-[814px] self-end pl-5">
+				<img class="rounded-full" src={Imagen2} alt="imagenDescripción" />
 			</div>
 		</div>
 	</div>

@@ -34,6 +34,8 @@
 				<div>00000000</div>
 			</div>
 
+			<!-- Menu dispositivos moviles -->
+
 			<nav
 				class="{navOpened
 					? 'mnav open'
@@ -79,10 +81,12 @@
 				</div>
 			</nav>
 
+			<!-- Menu pantalla equipo -->
+
 			<nav
 				class="bg-white absolute w-full left-0 -bottom-[86px] shadow-custom1 h-16 rounded-[10px] hidden lg:flex lg:items-center lg:justify-center"
 			>
-				<ul class="flex gap-x-4">
+				<ul class="flex gap-x-20">
 					<li>
 						<a href="/" class="text-black hover:text-mainRed transition-all duration-300">Inicio</a>
 					</li>
