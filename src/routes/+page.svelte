@@ -58,10 +58,10 @@
 			></i>
 			<div class="mt-8 text-center">
 				<p class="font-light leading-normal max-w-[300px]">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porta faucibus scelerisque.
-					Nulla tincidunt interdum magna, ac finibus ex mollis ac. Ut non tortor sapien. Praesent
-					rhoncus varius erat sit amet tincidunt. Nam convallis diam at elit blandit elementum.
-					Phasellus feugiat imperdiet tincidunt. Pellentesque in euismod libero.
+					CARPART SAS. es una empresa especializada en la fabricación, instalación, alquiler
+					de carpas cubrimientos en lonas a base de PVC y poliéster con altos estándares de calidad
+					y experiencia, apoyada en las mejores herramientas tecnológicas, para satisfacer las
+					necesidades de nuestros clientes.
 				</p>
 				<h4 class="h3 mb-[10px] mt-2">Mision</h4>
 			</div>
@@ -74,10 +74,10 @@
 			></i>
 			<div class="mt-8 text-center">
 				<p class="font-light leading-normal max-w-[300px]">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porta faucibus scelerisque.
-					Nulla tincidunt interdum magna, ac finibus ex mollis ac. Ut non tortor sapien. Praesent
-					rhoncus varius erat sit amet tincidunt. Nam convallis diam at elit blandit elementum.
-					Phasellus feugiat imperdiet tincidunt. Pellentesque in euismod libero.
+					Liderar la industria en fabricación e instalación en todo tipo de cubrimientos, con
+					diseños y servicios con los mejores estándares de calidad, disponiendo de un grupo de
+					trabajo certificado y con una destacada experiencia para así garantizar la exigencia de
+					cada uno de nuestros clientes y así mismo destacar nuestra compañía.
 				</p>
 				<h4 class="h3 mb-[10px] mt-2">Vision</h4>
 			</div>
