@@ -49,7 +49,7 @@
 			</li>
 		</ul>
 		<p class="text-base text-gray-300">
-			Copyright © 2024<a href="/" target="_blank" class="hover:underline mx-1">Carpas</a>Carpas.
+			Copyright © 2024<a href="/" target="_blank" class="hover:underline mx-1">Carpart S.A.S</a>
 		</p>
 		<ul class="flex justify-center space-x-6 gap-y-2 flex-wrap">
 			<li>

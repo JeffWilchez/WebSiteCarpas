@@ -24,7 +24,7 @@ export default {
         mainBlack: "hsl(0, 0%, 0%)",
       },
       boxShadow: {
-        custom1: '0px 2px 40px 0px rgb(239, 154, 154)',
+        custom1: '0px 2px 40px 0px rgba(177, 26, 26, 1)',
         custom2: '0px 0px 30px 0px rgba(8, 73, 81, 0.06)'
       },
       backgroundImage : {
@@ -33,6 +33,6 @@ export default {
       }
     },
   },
-  plugins: [],
+  plugins: [require('daisyui'), require('tailwindcss-patterns')],
 }
 

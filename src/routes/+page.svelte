@@ -4,19 +4,16 @@
 	import Desc from '../components/Desc.svelte';
 	import BtnWpp from '../components/BtnWpp.svelte';
 	import BtnContacto from '../components/BtnContacto.svelte';
-
-	// import Imagen1 from '../lib/assets/img/galeria/carpa1.jpg';
-	// import Imagen2 from '../lib/assets/img/galeria/carpa2.jpg';
 </script>
 
 <svelte:head>
-	<title>Carpas | Inicio</title>
+	<title>Carpart | Inicio</title>
 </svelte:head>
 
 <Header />
 <Desc />
 
-<h1 class="text-center mt-12 text-4xl lg:text-6xl font-bold">Beneficios</h1>
+<h1 class="text-center mt-6 text-4xl lg:text-6xl font-bold">Beneficios</h1>
 <section class="section">
 	<div class="container mx-auto">
 		<div class="flex flex-col xl:flex-row gap-y-6 justify-between">
@@ -47,6 +44,46 @@
 		</div>
 	</div>
 </section>
+
+<div class="mb-8">
+	<div class="mb-20 text-center max-w-3xl mx-auto">
+		<h1 class="text-center text-4xl lg:text-6xl font-bold">Mision y Vision</h1>
+	</div>
+	<div class="grid md:grid-cols-2 md:gap-6 max-md:gap-10 max-w-6xl mx-auto">
+		<div
+			class="max-w-[350px] h-auto sm:p-8 p-4 rounded-md mx-auto shadow-[0_2px_22px_-4px_rgba(93,96,127,0.2)] bg-white relative"
+		>
+			<i
+				class="fa-solid fa-gears w-14 h-14 rounded-full absolute right-0 left-0 mx-auto text-6xl -top-7 text-red-700"
+			></i>
+			<div class="mt-8 text-center">
+				<p class="font-light leading-normal max-w-[300px]">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porta faucibus scelerisque.
+					Nulla tincidunt interdum magna, ac finibus ex mollis ac. Ut non tortor sapien. Praesent
+					rhoncus varius erat sit amet tincidunt. Nam convallis diam at elit blandit elementum.
+					Phasellus feugiat imperdiet tincidunt. Pellentesque in euismod libero.
+				</p>
+				<h4 class="h3 mb-[10px] mt-2">Mision</h4>
+			</div>
+		</div>
+		<div
+			class="max-w-[350px] h-auto sm:p-8 p-4 rounded-md mx-auto shadow-[0_2px_22px_-4px_rgba(93,96,127,0.2)] bg-white relative"
+		>
+			<i
+				class="fa-solid fa-eye w-14 h-14 rounded-full absolute right-0 left-0 mx-auto text-6xl -top-7 text-red-700"
+			></i>
+			<div class="mt-8 text-center">
+				<p class="font-light leading-normal max-w-[300px]">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porta faucibus scelerisque.
+					Nulla tincidunt interdum magna, ac finibus ex mollis ac. Ut non tortor sapien. Praesent
+					rhoncus varius erat sit amet tincidunt. Nam convallis diam at elit blandit elementum.
+					Phasellus feugiat imperdiet tincidunt. Pellentesque in euismod libero.
+				</p>
+				<h4 class="h3 mb-[10px] mt-2">Vision</h4>
+			</div>
+		</div>
+	</div>
+</div>
 
 <section class="services mb-[40px]">
 	<div
