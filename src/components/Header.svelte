@@ -23,7 +23,7 @@
 		<div class="flex flex-col gap-y-4 lg:flex-row lg:gap-x-10 lg:gap-y-0">
 			<div class="flex justify-center items-center gap-x-2 lg:justify-normal">
 				<i class="fa-solid fa-envelope text-2xl text-mainRed"></i>
-				<div>correo@correo</div>
+				<div>ccarpartsas@gmail.com</div>
 			</div>
 			<div class="flex justify-center items-center gap-x-2 lg:justify-normal">
 				<i class="fa-solid fa-location-dot text-2xl text-mainRed"></i>
@@ -31,7 +31,7 @@
 			</div>
 			<div class="flex justify-center items-center gap-x-2 lg:justify-normal">
 				<i class="fa-solid fa-phone text-2x1 text-mainRed"></i>
-				<div>00000000</div>
+				<div>3124320702 - 3224557235</div>
 			</div>
 
 			<!-- Menu dispositivos moviles -->

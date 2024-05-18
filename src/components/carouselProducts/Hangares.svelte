@@ -1,13 +1,15 @@
 <script>
-	import image1 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0024.webp';
-	import image2 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0026.webp';
-	import image3 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0029.webp';
-	import image4 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0031.webp';
-	import image5 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0032.webp';
-	import image6 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0034.webp';
+	import image1 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0012.webp';
+	import image2 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0019.webp';
+	import image3 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0022.webp';
+	import image4 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0023.webp';
+	import image5 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0027.webp';
+	import image6 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0028.webp';
+	import image7 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0035.webp';
+	import image8 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0039.webp';
 
 	let currentSlide = 1;
-	const totalSlides = 6;
+	const totalSlides = 8;
 
 	const slides = [
 		{
@@ -39,6 +41,16 @@
 			title: 'Título del Carousel 6',
 			description: 'Descripción del Carousel 6...',
 			image: image6
+		},
+		{
+			title: 'Título del Carousel 7',
+			description: 'Descripción del Carousel 7...',
+			image: image7
+		},
+		{
+			title: 'Título del Carousel 8',
+			description: 'Descripción del Carousel 8...',
+			image: image8
 		}
 	];
 

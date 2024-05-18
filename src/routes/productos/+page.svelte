@@ -5,6 +5,9 @@
 	import BtnContacto from '$components/BtnContacto.svelte';
 	import Modal from '$components/Modal.svelte';
 	import Carpas from '$components/carouselProducts/Carpas.svelte';
+	import Hangares from '$components/carouselProducts/Hangares.svelte';
+	import Fachada from '$components/carouselProducts/Fachada.svelte';
+	import Parasoles from '$components/carouselProducts/Parasoles.svelte';
 	import Diseneos from '$components/carouselProducts/Diseneos.svelte';
 
 	import iconCarpa from '$lib/assets/img/icons/Icono carpa Bitech.webp';
@@ -166,17 +169,17 @@
 
 <Modal id_modal={'hangaresCamp'}>
 	<h3 slot="title" class="text-3xl font-extrabold">Hangares y campamentos</h3>
-	<Carpas />
+	<Hangares />
 </Modal>
 
 <Modal id_modal={'parasolFachada'}>
 	<h3 slot="title" class="text-3xl font-extrabold">Parasol fachada</h3>
-	<Carpas />
+	<Fachada />
 </Modal>
 
 <Modal id_modal={'parasolSombrilla'}>
 	<h3 slot="title" class="text-3xl font-extrabold">Parasol sombrilla</h3>
-	<Carpas />
+	<Parasoles />
 </Modal>
 
 <Modal id_modal={'tarimasConchas'}>
