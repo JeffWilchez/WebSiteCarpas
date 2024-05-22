@@ -1,12 +1,31 @@
 <script>
+	import { goto } from '$app/navigation'
+
 	let nombre = '';
 	let telefono = '';
 	let correo = '';
 	let mensaje = '';
 
+	async function handleSubmit(event) {
+		event.preventDefault();
+		const response = await fetch('/api/sendEmail', {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json'
+			},
+			body: JSON.stringify({ nombre, telefono, correo, mensaje })
+		});
+
+		if (response.ok) {
+			alert('Email enviado con éxito');
+			goto('/')
+		} else {
+			alert('Error al enviar el email');
+		}
+	}
+
 	const ubicacion =
 		'https://www.google.com/maps?q=Av%20boyaca%20%2355-90,%20bogota,%20colombia&z=13&ie=UTF8&iwloc=&output=embed';
-
 </script>
 
 <button class="contacto-btn" onclick="my_modal_2.showModal()"><h1>Contactanos aqui..</h1></button>
@@ -27,7 +46,7 @@
 					purus. Sed a tempus urna, sed vehicula augue. Aliquam feugiat nunc ac sapien bibendum
 					mattis. Vestibulum pretium semper faucibus.
 				</p> -->
-				<form>
+				<form on:submit={handleSubmit}>
 					<div class="space-y-4 mt-8">
 						<input
 							type="text"

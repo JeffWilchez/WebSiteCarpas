@@ -50,9 +50,9 @@
 			Copyright © 2024<a href="/" target="_blank" class="hover:underline mx-1">Carpart S.A.S</a>
 		</p>
 		<ul class="flex justify-center space-x-6 gap-y-2 flex-wrap">
-			<!-- <li>
-				<a href="/" class="text-gray-300 hover:text-white text-base">Politica de privacidad</a>
-			</li> -->
+			<li>
+				<a href="/privacidad" class="text-gray-300 hover:text-white text-base">Politica de privacidad</a>
+			</li>
 		</ul>
 	</div>
 </footer>
