@@ -11,33 +11,33 @@
 
 	const slides = [
 		{
-			title: 'Título del Carousel 1',
-			description: 'Descripción del Carousel 1...',
+			title: 'Sombrilla',
+			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
 			image: image1
 		},
 		{
-			title: 'Título del Carousel 2',
-			description: 'Descripción del Carousel 2...',
+			title: 'Sombrilla',
+			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
 			image: image2
 		},
 		{
-			title: 'Título del Carousel 3',
-			description: 'Descripción del Carousel 3...',
+			title: 'Sombrilla',
+			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
 			image: image3
 		},
 		{
-			title: 'Título del Carousel 4',
-			description: 'Descripción del Carousel 4...',
+			title: 'Sombrilla',
+			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
 			image: image4
 		},
 		{
-			title: 'Título del Carousel 5',
-			description: 'Descripción del Carousel 5...',
+			title: 'Sombrilla',
+			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
 			image: image5
 		},
 		{
-			title: 'Título del Carousel 6',
-			description: 'Descripción del Carousel 6...',
+			title: 'Sombrilla',
+			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
 			image: image6
 		}
 	];

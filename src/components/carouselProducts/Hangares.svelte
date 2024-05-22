@@ -13,43 +13,43 @@
 
 	const slides = [
 		{
-			title: 'Título del Carousel 1',
-			description: 'Descripción del Carousel 1...',
+			title: 'Hangares',
+			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
 			image: image1
 		},
 		{
-			title: 'Título del Carousel 2',
-			description: 'Descripción del Carousel 2...',
+			title: 'Hangares',
+			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
 			image: image2
 		},
 		{
-			title: 'Título del Carousel 3',
-			description: 'Descripción del Carousel 3...',
+			title: 'Hangares',
+			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
 			image: image3
 		},
 		{
-			title: 'Título del Carousel 4',
-			description: 'Descripción del Carousel 4...',
+			title: 'Hangares',
+			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
 			image: image4
 		},
 		{
-			title: 'Título del Carousel 5',
-			description: 'Descripción del Carousel 5...',
+			title: 'Hangares',
+			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
 			image: image5
 		},
 		{
-			title: 'Título del Carousel 6',
-			description: 'Descripción del Carousel 6...',
+			title: 'Hangares',
+			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
 			image: image6
 		},
 		{
-			title: 'Título del Carousel 7',
-			description: 'Descripción del Carousel 7...',
+			title: 'Hangares',
+			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
 			image: image7
 		},
 		{
-			title: 'Título del Carousel 8',
-			description: 'Descripción del Carousel 8...',
+			title: 'Hangares',
+			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
 			image: image8
 		}
 	];

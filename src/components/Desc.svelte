@@ -7,15 +7,13 @@
 	<div class="container mx-auto h-full">
 		<div class="flex flex-col xl:flex-row items-center justify-between h-full">
 			<div class="hero__text xl:w-[48%] text-center xl:text-left">
-				<h1 class="h1 mb-6">Lorem Ipsum</h1>
+				<h1 class="h1 mb-6">CARPART SAS</h1>
 				<p class="mb-[42px] md:max-w-xl">
-					Suspendisse varius tempus augue, ac cursus felis. Pellentesque efficitur aliquet lacinia.
-					Nullam vitae tellus sit amet nisi scelerisque vestibulum sed vitae nisi. Quisque vel
-					maximus quam. Suspendisse varius tempus augue, ac cursus felis. Pellentesque efficitur
-					aliquet lacinia. Nullam vitae tellus sit amet nisi scelerisque vestibulum sed vitae nisi.
-					Quisque vel maximus quam. Suspendisse varius tempus augue, ac cursus felis. Pellentesque
-					efficitur aliquet lacinia. Nullam vitae tellus sit amet nisi scelerisque vestibulum sed
-					vitae nisi. Quisque vel maximus quam.
+					Complacemos a nuestros clientes mediante altos estándares de calidad en la manufactura y
+					fabricación de todo tipo de cubrimientos, en la prestación de nuestros servicios, mediante
+					el talento humano y capacitación de nuestro personal, adicionalmente la implementación de
+					tecnologías de punta, de esta forma brindamos al cliente un servicio de excelencia y un
+					producto de sobresaliente por su duración e innovación.
 				</p>
 				<button
 					on:click={() => goto('/productos')}

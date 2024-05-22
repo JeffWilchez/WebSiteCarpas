@@ -12,38 +12,38 @@
 
 	const slides = [
 		{
-			title: 'Título del Carousel 1',
-			description: 'Descripción del Carousel 1...',
+			title: 'Toldos retráctil',
+			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
 			image: image1
 		},
 		{
-			title: 'Título del Carousel 2',
-			description: 'Descripción del Carousel 2...',
+			title: 'Toldos retráctil',
+			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
 			image: image2
 		},
 		{
-			title: 'Título del Carousel 3',
-			description: 'Descripción del Carousel 3...',
+			title: 'Toldos retráctil',
+			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
 			image: image3
 		},
 		{
-			title: 'Título del Carousel 4',
-			description: 'Descripción del Carousel 4...',
+			title: 'Toldos retráctil',
+			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
 			image: image4
 		},
 		{
-			title: 'Título del Carousel 5',
-			description: 'Descripción del Carousel 5...',
+			title: 'Toldos retráctil',
+			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
 			image: image5
 		},
 		{
-			title: 'Título del Carousel 6',
-			description: 'Descripción del Carousel 6...',
+			title: 'Toldos retráctil',
+			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
 			image: image6
 		},
 		{
-			title: 'Título del Carousel 7',
-			description: 'Descripción del Carousel 7...',
+			title: 'Toldos retráctil',
+			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
 			image: image7
 		}
 	];

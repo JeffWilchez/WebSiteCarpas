@@ -28,7 +28,7 @@
 <div class="p-4 mx-auto lg:max-w-6xl max-w-xl md:max-w-full py-20">
 	<h1 class="text-4xl font-bold mb-12 mt-6 text-center lg:text-6xl">Conoce nuestros productos</h1>
 	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-		<div
+		<!-- <div
 			class="bg-gray-100 rounded-2xl p-6 cursor-pointer hover:-translate-y-2 transition-all relative"
 		>
 			<div class="max-lg:w-11/12 w-4/5 h-[220px] overflow-hidden mx-auto aspect-w-16 aspect-h-8">
@@ -43,7 +43,7 @@
 					>Más información..</button
 				>
 			</div>
-		</div>
+		</div> -->
 
 		<div
 			class="bg-gray-100 rounded-2xl p-6 cursor-pointer hover:-translate-y-2 transition-all relative"
@@ -62,7 +62,7 @@
 			</div>
 		</div>
 
-		<div
+		<!-- <div
 			class="bg-gray-100 rounded-2xl p-6 cursor-pointer hover:-translate-y-2 transition-all relative"
 		>
 			<div class="max-lg:w-11/12 w-4/5 h-[220px] overflow-hidden mx-auto aspect-w-16 aspect-h-8">
@@ -77,7 +77,7 @@
 					>Más información..</button
 				>
 			</div>
-		</div>
+		</div> -->
 
 		<div
 			class="bg-gray-100 rounded-2xl p-6 cursor-pointer hover:-translate-y-2 transition-all relative"
@@ -127,7 +127,7 @@
 				>
 			</div>
 		</div>
-		<div
+		<!-- <div
 			class="bg-gray-100 rounded-2xl p-6 cursor-pointer hover:-translate-y-2 transition-all relative"
 		>
 			<div class="max-lg:w-11/12 w-4/5 h-[220px] overflow-hidden mx-auto aspect-w-16 aspect-h-8">
@@ -142,7 +142,7 @@
 					>Más información..</button
 				>
 			</div>
-		</div>
+		</div> -->
 	</div>
 
 	<BtnContacto />

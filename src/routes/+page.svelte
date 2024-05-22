@@ -58,9 +58,9 @@
 			></i>
 			<div class="mt-8 text-center">
 				<p class="font-light leading-normal max-w-[300px]">
-					CARPART SAS. es una empresa especializada en la fabricación, instalación, alquiler
-					de carpas cubrimientos en lonas a base de PVC y poliéster con altos estándares de calidad
-					y experiencia, apoyada en las mejores herramientas tecnológicas, para satisfacer las
+					CARPART SAS. es una empresa especializada en la fabricación, instalación, alquiler de
+					carpas cubrimientos en lonas a base de PVC y poliéster con altos estándares de calidad y
+					experiencia, apoyada en las mejores herramientas tecnológicas, para satisfacer las
 					necesidades de nuestros clientes.
 				</p>
 				<h4 class="h3 mb-[10px] mt-2">Mision</h4>
@@ -91,11 +91,9 @@
 	>
 		<div class="container mx-auto">
 			<div class="services__top flex items-center flex-col xl:flex-row xl:mb-[60px]">
-				<h2 class="h2 text-white flex-1 mb-4 xl:mb-0 text-center xl:text-left">Lorem Ipsum</h2>
+				<h2 class="h2 text-white flex-1 mb-4 xl:mb-0 text-center xl:text-left">Politica de calidad</h2>
 				<p class="text-white flex-1 text-center xl:text-left max-w-2xl xl:max-w-none">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in odio lorem. Cras dictum
-					porta dui in venenatis. Aenean vulputate hendrerit porta. Donec nec magna vitae augue
-					iaculis dictum.
+					Nuestra compañia lidera en fabricación e instalación, en todo tipo de cubrimiento con diseños y servicios con los mejores estandares de calidad
 				</p>
 			</div>
 		</div>
@@ -107,22 +105,24 @@
 				class="services__item bg-white p-[30px] rounded-[10px] shadow-custom2 min-h-[288px] flex flex-col items-center text-center"
 			>
 				<div class="mb-[15px]">
-					<i class="fa-solid fa-thumbs-up text-4xl"></i>
+					<i class="fa-solid fa-shield-halved text-4xl"></i>
 				</div>
-				<h3 class="h3 mb-[10px]">Servicio1</h3>
+				<h3 class="h3 mb-[10px]">Instalaciones seguras</h3>
 				<p class="font-light leading-normal max-w-[300px]">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in odio lorem.
+					Instalamos y enviamos sus productos a nivel nacional e internacional con la mejores
+					condiciones de embalaje, cuidado y protección.
 				</p>
 			</div>
 			<div
 				class="services__item bg-white p-[30px] rounded-[10px] shadow-custom2 min-h-[288px] flex flex-col items-center text-center"
 			>
 				<div class="mb-[15px]">
-					<i class="fa-solid fa-thumbs-up text-4xl"></i>
+					<i class="fa-solid fa-certificate text-4xl"></i>
 				</div>
-				<h3 class="h3 mb-[10px]">Mantenimiento1</h3>
+				<h3 class="h3 mb-[10px]">Personal certificado</h3>
 				<p class="font-light leading-normal max-w-[300px]">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in odio lorem.
+					Nuestra compañía cuenta con un personal capacitado y certificado con cursos de alturas.
+					Coordinación y seguridad industrial.
 				</p>
 			</div>
 		</div>

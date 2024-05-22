@@ -1,4 +1,4 @@
-<a href="https://wa.me/1234567890?text=hello+123" target="”_blank”" class="whatsapp-btn">
+<a href="https://wa.me/3124320702?text= Hola! quisiera más información sobre sus productos" target="”_blank”" class="whatsapp-btn">
 	<i class="fa-brands fa-whatsapp"></i>
 </a>
 

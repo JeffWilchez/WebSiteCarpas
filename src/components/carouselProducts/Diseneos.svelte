@@ -11,33 +11,33 @@
 
 	const slides = [
 		{
-			title: 'Título del Carousel 1',
-			description: 'Descripción del Carousel 1...',
+			title: 'Membranas arquitectónicas',
+			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
 			image: image1
 		},
 		{
-			title: 'Título del Carousel 2',
-			description: 'Descripción del Carousel 2...',
+			title: 'Membranas arquitectónicas',
+			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
 			image: image2
 		},
 		{
-			title: 'Título del Carousel 3',
-			description: 'Descripción del Carousel 3...',
+			title: 'Membranas arquitectónicas',
+			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
 			image: image3
 		},
 		{
-			title: 'Título del Carousel 4',
-			description: 'Descripción del Carousel 4...',
+			title: 'Membranas arquitectónicas',
+			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
 			image: image4
 		},
 		{
-			title: 'Título del Carousel 5',
-			description: 'Descripción del Carousel 5...',
+			title: 'Membranas arquitectónicas',
+			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
 			image: image5
 		},
 		{
-			title: 'Título del Carousel 6',
-			description: 'Descripción del Carousel 6...',
+			title: 'Membranas arquitectónicas',
+			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
 			image: image6
 		}
 	];

@@ -1,29 +1,12 @@
 <script>
-// @ts-nocheck
-
-	// import {sendEmail} from '../lib/utils/email';
-
 	let nombre = '';
 	let telefono = '';
 	let correo = '';
 	let mensaje = '';
 
 	const ubicacion =
-		'https://maps.google.com/maps?q=Cra.%2053f%20%235c-1%205c-99%20a,%20Bogotá&t=&z=13&ie=UTF8&iwloc=&output=embed';
+		'https://www.google.com/maps?q=Av%20boyaca%20%2355-90,%20bogota,%20colombia&z=13&ie=UTF8&iwloc=&output=embed';
 
-	// async function handleSubmit() {
-	// 	try {
-	// 		await sendEmail({ nombre, telefono, correo, mensaje });
-	// 		nombre = '';
-	// 		telefono = '';
-	// 		correo = '';
-	// 		mensaje = '';
-	// 		alert('mensaje enciado');
-	// 	} catch (error) {
-	// 		console.error('Error al enviar el mensaje:', error);
-	// 		alert('Hubo un error al enviar el mensaje. Inténtalo de nuevo más tarde.');
-	// 	}
-	// }
 </script>
 
 <button class="contacto-btn" onclick="my_modal_2.showModal()"><h1>Contactanos aqui..</h1></button>
@@ -38,12 +21,12 @@
 			class="grid md:grid-cols-2 gap-16 items-center relative overflow-hidden p-10 shadow-[0_2px_10px_-3px_rgba(6,81,237,0.3)] rounded-3xl max-w-6xl mx-auto bg-white text-[#333] my-6 font-[sans-serif] before:absolute before:right-0 before:w-[300px] before:bg-mainRed before:h-full max-md:before:hidden"
 		>
 			<div>
-				<p class="text-sm text-gray-400 mt-3">
+				<!-- <p class="text-sm text-gray-400 mt-3">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis feugiat varius nulla, ut
 					scelerisque lorem porta sit amet. Ut nec nisi nec neque tempus vestibulum tincidunt at
 					purus. Sed a tempus urna, sed vehicula augue. Aliquam feugiat nunc ac sapien bibendum
 					mattis. Vestibulum pretium semper faucibus.
-				</p>
+				</p> -->
 				<form>
 					<div class="space-y-4 mt-8">
 						<input
@@ -112,7 +95,7 @@
 							/>
 						</svg>
 						<p class="text-current text-sm ml-3">
-							<strong>correo@correo.com</strong>
+							<strong>ccarpartsas@gmail.com</strong>
 						</p>
 					</li>
 					<li class="flex items-center text-current">
@@ -129,7 +112,7 @@
 							></path>
 						</svg>
 						<p class="text-current text-sm ml-3">
-							<strong>0000000</strong>
+							<strong>3124320702 - 3224557235</strong>
 						</p>
 					</li>
 				</ul>
