@@ -114,7 +114,7 @@
 							/>
 						</svg>
 						<p class="text-current text-sm ml-3">
-							<strong>ccarpartsas@gmail.com</strong>
+							<strong>correo@correo.com</strong>
 						</p>
 					</li>
 					<li class="flex items-center text-current">
@@ -131,7 +131,7 @@
 							></path>
 						</svg>
 						<p class="text-current text-sm ml-3">
-							<strong>3124320702 - 3224557235</strong>
+							<strong>00000000</strong>
 						</p>
 					</li>
 				</ul>
