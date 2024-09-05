@@ -25,7 +25,7 @@
 	}
 
 	const ubicacion =
-		'https://www.google.com/maps?q=Av%20boyaca%20%2355-90,%20bogota,%20colombia&z=13&ie=UTF8&iwloc=&output=embed';
+		'https://www.google.com/UTF8&iwloc=&output=embed';
 </script>
 
 <button class="contacto-btn" onclick="my_modal_2.showModal()"><h1>Contactanos aqui..</h1></button>
