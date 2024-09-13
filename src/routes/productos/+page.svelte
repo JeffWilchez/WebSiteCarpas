@@ -20,7 +20,7 @@
 </script>
 
 <svelte:head>
-	<title>Carpart | Productos</title>
+	<title>Empresa | Productos</title>
 </svelte:head>
 
 <Header />

@@ -2,7 +2,7 @@
 	<div class="flex max-lg:flex-col items-center justify-between gap-6 text-center">
 		<ul class="flex space-x-6">
 			<li>
-				<a href="https://www.facebook.com/profile.php?id=100090302637202&mibextid=ZbWKwL">
+				<a href="">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						fill="none"
@@ -18,7 +18,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="https://www.instagram.com/carpartsas.21?igsh=MTlmaWgwbnFmNWpiaw==">
+				<a href="">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						fill="none"
@@ -32,7 +32,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="https://www.tiktok.com/@.carpart.sas?_t=8mY2CkR1Eiz&_r=1">
+				<a href="">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						fill="none"
@@ -47,7 +47,7 @@
 			</li>
 		</ul>
 		<p class="text-base text-gray-300">
-			Copyright © 2024<a href="/" target="_blank" class="hover:underline mx-1">Carpart S.A.S</a>
+			Copyright © 2024<a href="/" target="_blank" class="hover:underline mx-1">Nombre empresa</a>
 		</p>
 		<ul class="flex justify-center space-x-6 gap-y-2 flex-wrap">
 			<li>

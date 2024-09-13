@@ -9,11 +9,23 @@
 			<div class="hero__text xl:w-[48%] text-center xl:text-left">
 				<h1 class="h1 mb-6">CARPART SAS</h1>
 				<p class="mb-[42px] md:max-w-xl">
-					Complacemos a nuestros clientes mediante altos estándares de calidad en la manufactura y
-					fabricación de todo tipo de cubrimientos, en la prestación de nuestros servicios, mediante
-					el talento humano y capacitación de nuestro personal, adicionalmente la implementación de
-					tecnologías de punta, de esta forma brindamos al cliente un servicio de excelencia y un
-					producto de sobresaliente por su duración e innovación.
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi id ratione alias ipsum
+					nam laborum fugit beatae explicabo, et, odit incidunt magnam asperiores eaque iusto amet
+					in doloribus sit voluptas eos modi fugiat enim expedita deleniti inventore. Quo, odio
+					esse? Quod facere laudantium saepe magnam laboriosam sapiente architecto similique
+					consequuntur ab dolores labore alias eos possimus nemo tempora nesciunt dicta, aliquam
+					enim esse eaque corporis quo perferendis autem excepturi? Deserunt tenetur dolor tempore
+					rerum fugiat, repellendus voluptatem magnam maxime doloribus corporis repellat,
+					recusandae, numquam nam neque unde nihil impedit quo tempora ullam voluptatibus nemo.
+					Adipisci debitis accusamus sapiente sequi eaque, fugit perspiciatis nobis expedita vitae
+					illo quaerat temporibus natus, iure provident sit, enim doloribus ipsa tempora totam. Nemo
+					provident quae praesentium quia. Quia nisi alias porro ab harum, iusto labore ut mollitia
+					commodi dolorum praesentium cum, nulla, quo cumque ipsa itaque sapiente enim inventore
+					dignissimos accusantium nemo! Dolor rerum labore deserunt laudantium, corrupti autem
+					eligendi! Molestiae adipisci impedit eius, quasi asperiores quae saepe fuga. Assumenda
+					quam eveniet aut soluta totam quos aperiam cum deserunt quas dignissimos? Autem cumque
+					magni sequi odit corrupti quae voluptates soluta atque, officia minima temporibus quas
+					consequuntur. Modi quos laboriosam, perspiciatis aliquam sequi provident labore expedita.
 				</p>
 				<button
 					on:click={() => goto('/productos')}

@@ -1,10 +1,10 @@
 <script>
-	import image1 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0024.webp';
-	import image2 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0026.webp';
-	import image3 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0029.webp';
-	import image4 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0031.webp';
-	import image5 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0032.webp';
-	import image6 from '$lib/assets/img/galeria/membranas/IMG-20240510-WA0034.webp';
+	import image1 from '$lib/assets/img/CARPA-LOGO.png';
+	import image2 from '$lib/assets/img/CARPA-LOGO.png';
+	import image3 from '$lib/assets/img/CARPA-LOGO.png';
+	import image4 from '$lib/assets/img/CARPA-LOGO.png';
+	import image5 from '$lib/assets/img/CARPA-LOGO.png';
+	import image6 from '$lib/assets/img/CARPA-LOGO.png';
 
 	let currentSlide = 1;
 	const totalSlides = 6;
@@ -12,32 +12,32 @@
 	const slides = [
 		{
 			title: 'Membranas arquitectónicas',
-			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
+			description: 'Info',
 			image: image1
 		},
 		{
 			title: 'Membranas arquitectónicas',
-			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
+			description: 'Info',
 			image: image2
 		},
 		{
 			title: 'Membranas arquitectónicas',
-			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
+			description: 'Info',
 			image: image3
 		},
 		{
 			title: 'Membranas arquitectónicas',
-			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
+			description: 'Info',
 			image: image4
 		},
 		{
 			title: 'Membranas arquitectónicas',
-			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
+			description: 'Info',
 			image: image5
 		},
 		{
 			title: 'Membranas arquitectónicas',
-			description: 'Diseño exclusivo para las membranas ya que son ideales para espacios abiertos, con lonas ultra resistentes.',
+			description: 'Info',
 			image: image6
 		}
 	];

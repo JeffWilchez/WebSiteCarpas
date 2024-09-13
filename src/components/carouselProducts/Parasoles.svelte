@@ -1,10 +1,10 @@
 <script>
-	import image1 from '$lib/assets/img/galeria/parasoles/IMG-20240509-WA0046.webp';
-	import image2 from '$lib/assets/img/galeria/parasoles/IMG-20240509-WA0050.webp';
-	import image3 from '$lib/assets/img/galeria/parasoles/IMG-20240509-WA0051.webp';
-	import image4 from '$lib/assets/img/galeria/parasoles/IMG-20240509-WA0052.webp';
-	import image5 from '$lib/assets/img/galeria/parasoles/IMG-20240509-WA0057.webp';
-	import image6 from '$lib/assets/img/galeria/parasoles/IMG-20240509-WA0058.webp';
+	import image1 from '$lib/assets/img/CARPA-LOGO.png';
+	import image2 from '$lib/assets/img/CARPA-LOGO.png';
+	import image3 from '$lib/assets/img/CARPA-LOGO.png';
+	import image4 from '$lib/assets/img/CARPA-LOGO.png';
+	import image5 from '$lib/assets/img/CARPA-LOGO.png';
+	import image6 from '$lib/assets/img/CARPA-LOGO.png';
 
 	let currentSlide = 1;
 	const totalSlides = 6;
@@ -12,32 +12,32 @@
 	const slides = [
 		{
 			title: 'Sombrilla',
-			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
+			description: 'info.',
 			image: image1
 		},
 		{
 			title: 'Sombrilla',
-			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
+			description: 'info.',
 			image: image2
 		},
 		{
 			title: 'Sombrilla',
-			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
+			description: 'info.',
 			image: image3
 		},
 		{
 			title: 'Sombrilla',
-			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
+			description: 'info.',
 			image: image4
 		},
 		{
 			title: 'Sombrilla',
-			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
+			description: 'info.',
 			image: image5
 		},
 		{
 			title: 'Sombrilla',
-			description: 'Puedes ser cuadrados o redondeos, metálicos o en madera, según la medida que se requiera.',
+			description: 'info.',
 			image: image6
 		}
 	];

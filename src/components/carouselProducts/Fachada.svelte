@@ -1,11 +1,11 @@
 <script>
-	import image1 from '$lib/assets/img/galeria/fachada/IMG-20240509-WA0022.webp';
-	import image2 from '$lib/assets/img/galeria/fachada/IMG-20240509-WA0025.webp';
-	import image3 from '$lib/assets/img/galeria/fachada/IMG-20240509-WA0028.webp';
-	import image4 from '$lib/assets/img/galeria/fachada/IMG-20240509-WA0030.webp';
-	import image5 from '$lib/assets/img/galeria/fachada/IMG-20240509-WA0032.webp';
-	import image6 from '$lib/assets/img/galeria/fachada/IMG-20240509-WA0036.webp';
-	import image7 from '$lib/assets/img/galeria/fachada/IMG-20240509-WA0039.webp';
+	import image1 from '$lib/assets/img/CARPA-LOGO.png';
+	import image2 from '$lib/assets/img/CARPA-LOGO.png';
+	import image3 from '$lib/assets/img/CARPA-LOGO.png';
+	import image4 from '$lib/assets/img/CARPA-LOGO.png';
+	import image5 from '$lib/assets/img/CARPA-LOGO.png';
+	import image6 from '$lib/assets/img/CARPA-LOGO.png';
+	import image7 from '$lib/assets/img/CARPA-LOGO.png';
 
 	let currentSlide = 1;
 	const totalSlides = 7;
@@ -13,37 +13,37 @@
 	const slides = [
 		{
 			title: 'Toldos retráctil',
-			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
+			description: 'Info',
 			image: image1
 		},
 		{
 			title: 'Toldos retráctil',
-			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
+			description: 'Info',
 			image: image2
 		},
 		{
 			title: 'Toldos retráctil',
-			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
+			description: 'Info',
 			image: image3
 		},
 		{
 			title: 'Toldos retráctil',
-			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
+			description: 'Info',
 			image: image4
 		},
 		{
 			title: 'Toldos retráctil',
-			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
+			description: 'Info',
 			image: image5
 		},
 		{
 			title: 'Toldos retráctil',
-			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
+			description: 'Info',
 			image: image6
 		},
 		{
 			title: 'Toldos retráctil',
-			description: 'Sistema enrrollabe que permite proyectar el parasol, cuando así lo desee, sistema manual o eléctrico.',
+			description: 'Info',
 			image: image7
 		}
 	];

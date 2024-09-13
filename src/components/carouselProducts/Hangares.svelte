@@ -1,12 +1,12 @@
 <script>
-	import image1 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0012.webp';
-	import image2 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0019.webp';
-	import image3 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0022.webp';
-	import image4 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0023.webp';
-	import image5 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0027.webp';
-	import image6 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0028.webp';
-	import image7 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0035.webp';
-	import image8 from '$lib/assets/img/galeria/hangares/IMG-20240424-WA0039.webp';
+	import image1 from '$lib/assets/img/CARPA-LOGO.png';
+	import image2 from '$lib/assets/img/CARPA-LOGO.png';
+	import image3 from '$lib/assets/img/CARPA-LOGO.png';
+	import image4 from '$lib/assets/img/CARPA-LOGO.png';
+	import image5 from '$lib/assets/img/CARPA-LOGO.png';
+	import image6 from '$lib/assets/img/CARPA-LOGO.png';
+	import image7 from '$lib/assets/img/CARPA-LOGO.png';
+	import image8 from '$lib/assets/img/CARPA-LOGO.png';
 
 	let currentSlide = 1;
 	const totalSlides = 8;
@@ -14,42 +14,42 @@
 	const slides = [
 		{
 			title: 'Hangares',
-			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
+			description: 'Información aqui.',
 			image: image1
 		},
 		{
 			title: 'Hangares',
-			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
+			description: 'Información aqui.',
 			image: image2
 		},
 		{
 			title: 'Hangares',
-			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
+			description: 'Información aqui.',
 			image: image3
 		},
 		{
 			title: 'Hangares',
-			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
+			description: 'Información aqui.',
 			image: image4
 		},
 		{
 			title: 'Hangares',
-			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
+			description: 'Información aqui.',
 			image: image5
 		},
 		{
 			title: 'Hangares',
-			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
+			description: 'Información aqui.',
 			image: image6
 		},
 		{
 			title: 'Hangares',
-			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
+			description: 'Información aqui.',
 			image: image7
 		},
 		{
 			title: 'Hangares',
-			description: 'Fabricación con lona ultra resistentes (blackout) con estructura en tramos para empatar.',
+			description: 'Información aqui.',
 			image: image8
 		}
 	];

@@ -1,6 +1,6 @@
 <script>
 	import '../app.css';
-	import carpaLogo from '../lib/assets/img/CARPA-LOGO.webp';
+	import carpaLogo from '../lib/assets/img/CARPA-LOGO.png';
 	import '@fortawesome/fontawesome-free/css/all.min.css';
 
 	let navOpened = false;
